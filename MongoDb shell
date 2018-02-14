@@ -1,0 +1,12 @@
+use mean
+# add node owner name ,address,moblie phone
+
+>db.users.insert({"owner name","address","mobile_phone","value"})
+>show dbs
+
+# add NodeNumber
+
+>db.users.insert({"NodeNumber"})
+>show dbs
+
+>
