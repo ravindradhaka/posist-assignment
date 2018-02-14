@@ -1,4 +1,9 @@
 # posist-assignment
+#solution 1
+
+in this part of solution to create a c++ code
+
+#soltion 2
 
 # step 1 download the nodejs from nodejs.com
 after install the nodejs in our system
