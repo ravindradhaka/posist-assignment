@@ -18,6 +18,11 @@ create a new file in src package server.js
 output package create DIST
 //html file open in localhost:3000//
 
+# step 5 download the MongoDb for suitable version for OS
+ open cmd "C:\Program Files\MongoDB\Server\3.4\bin\mongod.exe"
+
+### open cmd for run mongo shell
+"C:\Program Files\MongoDB\Server\3.4\bin\mongo.exe"
 
 
 
